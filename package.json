@@ -1,0 +1,16 @@
+{
+  "name": "cypress-sitemap-urls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "cypress open"
+  },
+  "keywords": [],
+  "author": "mfrachet",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.2.0",
+    "cypress-axe": "^0.14.0"
+  }
+}
